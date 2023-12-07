@@ -1,1 +1,1 @@
-# GausCheck
+# GaussCheck
