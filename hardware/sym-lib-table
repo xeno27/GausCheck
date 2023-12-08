@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GaussCheckCustomSymbols")(type "KiCad")(uri "${KIPRJMOD}/GaussCheckCustomSymbols.kicad_sym")(options "")(descr ""))
+)
