@@ -4093,6 +4093,23 @@
     )
   )
 
+  (sheet (at 101.6 29.21) (size 30.48 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f83ee674-9eed-498b-985b-a6377dd8787a)
+    (property "Sheetname" "DisplayLightning" (at 101.6 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gausCheck_LED.kicad_sch" (at 101.6 50.1146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "gaussCheck"
+        (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b" (page "4"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

@@ -55,24 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|115959710|70726942|26b4e65a-11c9-4c0c-bf10-3882b068df17|c3071be3-3fa9-40ac-b639-6c071bc13e1a",
-        "copper_edge_clearance|115959710|73723058|878fa89e-ac0a-4c39-816c-2ce8ddd4db2f|0ab29b56-2b9a-4231-915c-4641d97d0fdd",
-        "copper_edge_clearance|115959710|79726942|398038b3-0568-49ec-a24b-3f806a6e4f28|70172305-000a-4db3-8cf3-be80b03aa0d1",
-        "copper_edge_clearance|115959710|82723058|3d193cd6-dd8c-47b4-9882-d0d1c7e2fd41|cb208ff6-0435-4ba6-97aa-ac3eaa3ed2c5",
-        "copper_edge_clearance|115959710|88726942|48810947-fd38-4cd7-91c9-d47f5d49c623|7ee03f55-a1d9-48c7-a550-3b5292038365",
-        "copper_edge_clearance|115959710|91723058|9d5ab52d-b08a-49b3-9424-b9733375b925|01d9b169-27d6-4b06-a400-55fd8c2e7c16",
-        "courtyards_overlap|96132036|82035018|2b1d1613-7bf2-45fc-8ef9-77d45d0b2137|4329dca7-3311-4dc2-a742-03d63cfbb6a4",
-        "hole_clearance|102188000|133841000|4d884b97-a051-4311-842e-9b39553ad10b|889c4095-e320-444a-ae69-9d7bb29d8376",
-        "hole_clearance|103050000|133365000|889c4095-e320-444a-ae69-9d7bb29d8376|9ad8451a-da96-4679-af27-a6a081017b44",
-        "hole_clearance|103050000|133365000|889c4095-e320-444a-ae69-9d7bb29d8376|daa1e061-d9d2-4326-8c6b-adcc835378d8",
-        "hole_clearance|96950000|133365000|1c68e692-cbde-40e1-8710-412159343c0b|23be8ac8-9b03-42cf-9d51-9a07abef0485",
-        "hole_clearance|96950000|133365000|1c68e692-cbde-40e1-8710-412159343c0b|d8131378-1be7-487e-a6e6-3dceb457e57b",
-        "hole_clearance|97606389|133518611|bcc12dc0-1434-4c98-91cd-7ab2cf064f72|1c68e692-cbde-40e1-8710-412159343c0b",
-        "lib_footprint_mismatch|100000000|89189815|537f9977-5074-4e1c-8310-df4d4fe0c6d9|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|107750000|120950000|0d8b4649-6574-4061-a49d-5f88e42a81b1|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|99887500|59137142|b394ed4a-4516-42d3-bab8-6a1fbc2d3137|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -561,6 +544,10 @@
     [
       "c22756e4-aa1d-44a8-a547-8e3ad0f99b15",
       "Power"
+    ],
+    [
+      "f83ee674-9eed-498b-985b-a6377dd8787a",
+      "DisplayLightning"
     ]
   ],
   "text_variables": {}
