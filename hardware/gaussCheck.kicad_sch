@@ -3411,7 +3411,7 @@
     (property "Datasheet" "" (at 229.87 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "VIM-878-DP-FC-S-LV" (at 229.87 119.38 0)
+    (property "MPN" "VIM-878-DP-RC-S-LV" (at 229.87 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f9e9ae4a-5e60-4b34-9876-fde9da9978a2))
