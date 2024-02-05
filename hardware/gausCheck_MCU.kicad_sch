@@ -3713,6 +3713,7 @@
     (pin "15" (uuid 8b94c6cd-8afd-476b-9397-7b797fcef3c9))
     (pin "16" (uuid 4e4e4c2d-3134-497e-b19a-e68f36bf7ade))
     (pin "9" (uuid 7b8fccb5-323b-49b5-ae9c-4206f14cc79d))
+    (pin "3" (uuid 582a1f59-a995-4689-80fe-9bd97fc0d8ea))
     (pin "33" (uuid db363201-186f-448f-9270-9a8d49bfedf2))
     (pin "34" (uuid 70f453b2-4ed4-4bf5-bcaa-4932812faea6))
     (pin "35" (uuid 48daa5aa-4e9b-402d-b00c-db243661b108))
@@ -3756,7 +3757,6 @@
     (pin "12" (uuid 19182331-101e-4205-8d2c-a600bea97449))
     (pin "24" (uuid 566bdf6d-986a-4c2f-807e-21fec57a25ca))
     (pin "25" (uuid 89ee2254-56a4-4696-b88f-19cd454374cb))
-    (pin "3" (uuid 582a1f59-a995-4689-80fe-9bd97fc0d8ea))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/16e975fb-efcb-4aa5-84f5-5de8f94c26f2"

@@ -1433,9 +1433,9 @@
     (property "MPN" "BSS138" (at 59.69 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid a8da95c4-5386-4460-a0a7-bdbab06e7cd7))
     (pin "1" (uuid 5c2f76b8-9963-4164-acad-84004d930770))
     (pin "2" (uuid 22767c1c-03c2-4d59-a843-4e56dd254868))
+    (pin "3" (uuid a8da95c4-5386-4460-a0a7-bdbab06e7cd7))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/c22756e4-aa1d-44a8-a547-8e3ad0f99b15"
@@ -1571,8 +1571,8 @@
     (property "Datasheet" "~" (at 161.29 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 87bf9e40-b759-44a9-b2ef-f0b5f6eb21f0))
     (pin "1" (uuid fc6051ba-f408-438c-98ee-0ce77909e82f))
+    (pin "2" (uuid 87bf9e40-b759-44a9-b2ef-f0b5f6eb21f0))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/c22756e4-aa1d-44a8-a547-8e3ad0f99b15"
@@ -1863,8 +1863,8 @@
     (property "Datasheet" "~" (at 53.34 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 21731443-c88c-4a12-ba82-a280a6a3b71d))
     (pin "1" (uuid 8ecd979d-14c3-4261-b4f1-f0df92c172a5))
+    (pin "2" (uuid 21731443-c88c-4a12-ba82-a280a6a3b71d))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/c22756e4-aa1d-44a8-a547-8e3ad0f99b15"
@@ -1892,11 +1892,11 @@
     (property "MPN" "AP2112K-3.3" (at 73.66 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid 0a188057-b8d2-46c7-ba0e-d924417d7cf2))
     (pin "2" (uuid eacb0158-96c3-4ac0-ae0e-4dd51f3f3b58))
     (pin "3" (uuid db0ecc22-19e2-4413-bb41-427f6b056036))
     (pin "4" (uuid 03c7c510-6eb9-4a12-b198-b2bb3cb82263))
     (pin "5" (uuid 5a442653-9afd-4c82-8d12-283a72fb5b67))
-    (pin "1" (uuid 0a188057-b8d2-46c7-ba0e-d924417d7cf2))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b"
@@ -2020,8 +2020,8 @@
     (property "Datasheet" "~" (at 48.26 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 65bd59a3-4645-433e-ba6c-37ae9f2716e5))
     (pin "1" (uuid cc07365c-3864-4716-9fbe-6db05a605820))
+    (pin "2" (uuid 65bd59a3-4645-433e-ba6c-37ae9f2716e5))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/c22756e4-aa1d-44a8-a547-8e3ad0f99b15"
