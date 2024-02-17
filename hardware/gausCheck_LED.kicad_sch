@@ -517,8 +517,8 @@
     (property "Mouser" "603-RC0603FR-13140RL" (at 101.6 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 34a09c2a-034d-4d2f-9050-26c9b3dfa89e))
     (pin "1" (uuid 8741cbc8-5538-49b2-8c76-b1d3f734d9c5))
+    (pin "2" (uuid 34a09c2a-034d-4d2f-9050-26c9b3dfa89e))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/f83ee674-9eed-498b-985b-a6377dd8787a"
@@ -619,8 +619,8 @@
     (property "Mouser" "603-RC0603FR-13140RL" (at 101.6 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 958b0f2b-0de1-4534-9fe1-36d4c9a70284))
     (pin "1" (uuid 9bfe0fd4-1960-4326-8c5c-020a322f588f))
+    (pin "2" (uuid 958b0f2b-0de1-4534-9fe1-36d4c9a70284))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/f83ee674-9eed-498b-985b-a6377dd8787a"
@@ -673,9 +673,12 @@
     (property "MPN" "BSS138" (at 128.27 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid febeda50-21e5-4fcc-8d28-06d23ad5a8d6))
+    (property "Mouser" "512-BSS138" (at 128.27 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 55fb33e7-3729-42f6-a45f-f540271406cf))
     (pin "2" (uuid 67169e3c-646e-4e60-8650-c3aa7e461a37))
+    (pin "3" (uuid febeda50-21e5-4fcc-8d28-06d23ad5a8d6))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/c22756e4-aa1d-44a8-a547-8e3ad0f99b15"
@@ -709,8 +712,8 @@
     (property "Mouser" "603-RC0603FR-13140RL" (at 101.6 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 5b9555bd-6b31-4b1c-99a2-7165109008ec))
     (pin "1" (uuid 2ee35047-4fc7-4004-b0a4-64686a8d69a3))
+    (pin "2" (uuid 5b9555bd-6b31-4b1c-99a2-7165109008ec))
     (instances
       (project "gaussCheck"
         (path "/cf3c710d-e38a-496a-b88d-8d225bc2685b/f83ee674-9eed-498b-985b-a6377dd8787a"
